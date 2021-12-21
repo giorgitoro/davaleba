@@ -1,0 +1,50 @@
+.heading-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.background{
+    background-color: #22B573;
+    min-width: 1680px;
+    border: 1px solid green;
+    border-radius: 2px;
+    height: 768px;
+}
+.background-title{
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.title{
+    text-decoration: none;
+    padding-left: 25px;
+    font-size: 48px;
+    color: white;
+    display: inline-block;
+}
+.airplane{
+    float: right;
+    margin-top: -85px;
+    padding-right: 30px;
+}
+.white-box{
+    background-color: white;
+    width: 658px;
+    margin-top: -492px;
+    height: 492px;
+}
+.green{
+    padding-top: 18%;
+    padding-left: 25%;
+}
+.green-box{
+    background-color: #006837;
+    width: 300px;
+    height: 300px;
+}
+.green-title{
+    font-size: 38px;
+    white-space: nowrap;
+    transform: rotate(45deg);
+    padding-top: 96px;
+    color: yellow;
+}
